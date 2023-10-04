@@ -1,0 +1,52 @@
+{
+  "meta": {
+      "app_id": "es.uo287791.graff",
+      "app_title": "NY Graffitti Route",
+      "version": 1,
+      "updated": "2023-10-4",
+      "source_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/brussels/comics/data.json"
+  },
+  "content": {
+      "en": {
+          "app": {
+              "theme": {
+                  "brand": "#136700",
+                  "complementary": "#ffffff"
+              },
+              "place": "New York",
+              "repository_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/",
+              "text_info": "This app is created by locals and experts with no commercial objectives. As you can see, it's also free of charge. Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures.",
+              "text_acknowledge": "This quick app is an open-source project powered by Brussels Open Data and Wikidata and enriched by the community. Most of the information was extracted from Wikidata, OpenStreetMaps, and other public sources. You can find inaccuracies, so we apologize in advance.",
+              "text_feedback": "Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures. This app is created by locals and experts.",
+              "feedback_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/brussels/comics/#get-involved",
+              "issue_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/issues/new?labels=be/comics&template=update_request.md&title=Update+Request"
+          },
+          "pois": [
+              {
+                   "id" : "G849302",
+                   "name" : "Bushwick Collective",
+                   "description" : "Para ver una colección de impresionantes murales obra de este colectivo de Nueva York, vé a Bushwick. Bushwick se encuentra en Brooklyn, justo al lado de Flushing avenue.",
+                   "lat" : 40.689830574 ,
+                   "lon" : -73.917829662,
+                   "images" : ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.alamy.com%2Fstock-photo-street-art-in-bushwick-brooklyn-new-york-usa-all-art-by-the-bushwick-127922682.html&psig=AOvVaw3SpNxkmqGTCSejAd58HfKo&ust=1696525926491000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCzzNvx3IEDFQAAAAAdAAAAABAE"],
+                   "type" : "Graffitti area",
+                   "urls" : [ ""]
+                 }
+             ,
+              {
+                   "id" : "G448392",
+                   "name" : "Graffitti hall of fame",
+                   "description" : "En Harlem este, museo en constante actualizacion de los writers mas importantes.",
+                   "lat" : 	40.793073,
+                   "lon" : -73.948056,
+                   "images" : ["https://img.atlasobscura.com/2wobDVVRVktXu5agkf4j2i0DXiTxYkVfIhaiHJ3LLbk/rt:fit/w:1200/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9kOGM4/YzhmY2IzYTliOWI5/NDhfMTUzMDEyNjEw/MjFfNTM0ZGRhN2E4/YV9rLmpwZw.jpg"],
+                   "type" : "Graffitti spot"
+             
+                 }
+             
+             
+               ]            
+          
+      }
+  }
+}
